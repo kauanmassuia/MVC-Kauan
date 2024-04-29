@@ -22,5 +22,5 @@ Models:
 - Feedbacks: user_destino, user_realizdor, conteudo_feedback.
 - Perfil: perfil_de_lideranca, respostas_questionario.
 - Nível de Felicidade: porcentagem_individual, porcentagens_grupo
-- Integrante: id, nome, país, porcentagem_felicidade, habilidades
+- Integrante: id, nome, país, porcentagem_felicidade, habilidades.
 
